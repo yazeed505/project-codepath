@@ -11,16 +11,16 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+Cooking application that allows people to find cooking recipes suited to their taste. They can find cuisines based off their cooking level or a certain recipe that they're looking for.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Social Networking/Food/Cooking
+- **Mobile:** This app would be only developed for mobile.  Functionality would only be limited to IOS.
+- **Story:** Analyzes users food choices, and connects them to other reicpes. The user can then decide to favorite the recipe to use or to add comments about the recipe.
+- **Market:** Any individual could choose to use this app but it mainly target for people who want to llok at recipes of cooking new dishes.
+- **Habit:** This app could be used as often or unoften as the user wanted depending on how often they want to cook or to look at recipes for food.
+- **Scope:** First we would start with a black user, then perhaps they could evolve into a music sharing application as well to broaden its usage. Large potential for use with spotify, apple music, or other music streaming applications.
 
 ## Product Spec
 
@@ -28,16 +28,27 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users are able to register accounts 
+* Users are able to sign-in
+* Users are able to sign-out 
+* Users are able stay sign-in 
+* Users are able to post 
+* Users are able to message
+* Users are able to view
+* Users are able to add comment 
+* Users are able to add ingredients
+* Users are able to take picture of the food
+* 
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* 
+* 
 
 ### 2. Screen Archetypes
-
+* Login 
+* Register - User signs up or logs into their account
+* Home Screen - People can look at recipes
 * [list first screen here]
    * [list associated required story here]
    * ...
@@ -49,9 +60,9 @@ Original App Design Project - README Template
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home
+* Profile
+* Settings
 
 **Flow Navigation** (Screen to Screen)
 
